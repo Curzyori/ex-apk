@@ -15,8 +15,8 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/stargazers target="_blank" rel="noopener noreferrer")
-[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members target="_blank" rel="noopener noreferrer")
+[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk)
+[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android--10+-black?style=for-the-badge)](#)
 
