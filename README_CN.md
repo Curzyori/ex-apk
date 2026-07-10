@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">🌐 支持 4+ 种语言 —
-  <a href="README.md">EN</a> ·
-  <a href="README_ID.md">ID</a> ·
-  <a href="README_CN.md"><b>CN</b></a> ·
-  <a href="README_JP.md">JP</a>
+  <a href="README.md">🇺🇸 EN</a> ·
+  <a href="README_ID.md">🇮🇩 ID</a> ·
+  <a href="README_CN.md"><b>🇨🇳 CN</b></a> ·
+  <a href="README_JP.md">🇯🇵 JP</a>
 </p>
 
 ---

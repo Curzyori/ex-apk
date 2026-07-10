@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">🌐 Dalam 4+ bahasa —
-  <a href="README.md">EN</a> ·
-  <a href="README_ID.md"><b>ID</b></a> ·
-  <a href="README_CN.md">CN</a> ·
-  <a href="README_JP.md">JP</a>
+  <a href="README.md">🇺🇸 EN</a> ·
+  <a href="README_ID.md"><b>🇮🇩 ID</b></a> ·
+  <a href="README_CN.md">🇨🇳 CN</a> ·
+  <a href="README_JP.md">🇯🇵 JP</a>
 </p>
 
 ---
