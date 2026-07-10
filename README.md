@@ -73,8 +73,8 @@ Extract any installed APK from your Android device without root access. Perfect 
 ## <a id="installation"></a>📦 Installation
 
 1. **Download APK**
-   - Get the latest APK from [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) target="_blank" rel="noopener noreferrer"
-   - Or visit the website: https://ex-apk.curzy.dev/
+   - Get the latest APK from [GitHub Releases](https://github.com/Curzyori/ex-apk/releases){:target="_blank" rel="noopener noreferrer"}
+   - Or visit the website: [ex-apk.curzy.dev](https://ex-apk.curzy.dev/){:target="_blank" rel="noopener noreferrer"}
 
 2. **Install on Android**
    - Enable "Install from Unknown Sources" in your device settings
