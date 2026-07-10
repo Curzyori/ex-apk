@@ -143,6 +143,8 @@ Support this project by buying me a coffee! 💝
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 
+[<strong>Buy Me A Coffee</strong>](https://donate.curzy.dev/) target="_blank" rel="noopener noreferrer"
+
 ---
 
 ## 📄 License
