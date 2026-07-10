@@ -109,14 +109,14 @@ Extract any installed APK from your Android device without root access. Perfect 
 ## <a id="preview"></a>🖼️ Preview
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
-      <td><img src="images/dashboard.jpg" alt="ExAPK Dashboard" width="250"/></td>
-      <td><img src="images/extrack-preview.jpg" alt="APK Extraction Preview" width="250"/></td>
+      <td align="center"><img src="images/dashboard.jpg" alt="ExAPK Dashboard" width="250"/></td>
+      <td align="center"><img src="images/extrack-preview.jpg" alt="APK Extraction Preview" width="250"/></td>
     </tr>
     <tr>
-      <td><img src="images/setting-lang-preview.jpg" alt="Language Settings" width="250"/></td>
-      <td><img src="images/file-output-preview.jpg" alt="Extracted APK Files" width="250"/></td>
+      <td align="center"><img src="images/setting-lang-preview.jpg" alt="Language Settings" width="250"/></td>
+      <td align="center"><img src="images/file-output-preview.jpg" alt="Extracted APK Files" width="250"/></td>
     </tr>
   </table>
 </p>
