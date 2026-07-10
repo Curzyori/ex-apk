@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 Website</strong></a>
+  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 Live Website</strong></a>
 </p>
 
 <div align="center">
@@ -73,8 +73,8 @@ Ekstrak APK apa pun dari perangkat Android Anda tanpa akses root. Cocok untuk ba
 ## <a id="instalasi"></a>📦 Instalasi
 
 1. **Unduh APK**
-   - Ambil APK terbaru dari [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) target="_blank" rel="noopener noreferrer"
-   - Atau kunjungi website: https://ex-apk.curzy.dev/
+   - Ambil APK terbaru dari [GitHub Releases](https://github.com/Curzyori/ex-apk/releases){:target="_blank" rel="noopener noreferrer"}
+   - Atau kunjungi website: [ex-apk.curzy.dev](https://ex-apk.curzy.dev/){:target="_blank" rel="noopener noreferrer"}
 
 2. **Instal di Android**
    - Aktifkan "Install from Unknown Sources" di pengaturan perangkat
@@ -95,7 +95,7 @@ Ekstrak APK apa pun dari perangkat Android Anda tanpa akses root. Cocok untuk ba
 
 ```bash
 # Tidak perlu build — gunakan APK yang sudah jadi
-# Unduh dari: https://github.com/Curzyori/ex-apk/releases
+# Unduh dari: [GitHub Releases](https://github.com/Curzyori/ex-apk/releases){:target="_blank" rel="noopener noreferrer"}
 
 # Setelah menginstal:
 # 1. Buka aplikasi ExAPK

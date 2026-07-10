@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 官方网站</strong></a>
+  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 Live Website</strong></a>
 </p>
 
 <div align="center">
@@ -73,8 +73,8 @@
 ## <a id="installation"></a>📦 安装指南
 
 1. **下载 APK**
-   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) 获取最新 APK target="_blank" rel="noopener noreferrer"
-   - 或访问网站：https://ex-apk.curzy.dev/
+   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases){:target="_blank" rel="noopener noreferrer"} 获取最新 APK
+   - 或访问网站：[ex-apk.curzy.dev](https://ex-apk.curzy.dev/){:target="_blank" rel="noopener noreferrer"}
 
 2. **在 Android 上安装**
    - 在设备设置中启用"允许安装未知来源应用"
@@ -95,7 +95,7 @@
 
 ```bash
 # 无需构建 —— 使用预构建的 APK
-# 下载地址：https://github.com/Curzyori/ex-apk/releases
+# 下载地址：[GitHub Releases](https://github.com/Curzyori/ex-apk/releases){:target="_blank" rel="noopener noreferrer"}
 
 # 安装后：
 # 1. 打开 ExAPK 应用
