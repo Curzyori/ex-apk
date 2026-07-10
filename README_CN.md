@@ -73,8 +73,8 @@
 ## <a id="installation"></a>📦 安装指南
 
 1. **下载 APK**
-   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases){:target="_blank" rel="noopener noreferrer"} 获取最新 APK
-   - 或访问网站：[ex-apk.curzy.dev](https://ex-apk.curzy.dev/){:target="_blank" rel="noopener noreferrer"}
+   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) target="_blank" rel="noopener noreferrer" 获取最新 APK
+   - 或访问网站：[ex-apk.curzy.dev](https://ex-apk.curzy.dev/) target="_blank" rel="noopener noreferrer"
 
 2. **在 Android 上安装**
    - 在设备设置中启用"允许安装未知来源应用"
@@ -93,9 +93,10 @@
 
 ## <a id="quick-start"></a>🚀 快速开始
 
+### 预构建 APK（推荐）
 ```bash
 # 无需构建 —— 使用预构建的 APK
-# 下载地址：[GitHub Releases](https://github.com/Curzyori/ex-apk/releases){:target="_blank" rel="noopener noreferrer"}
+# 下载地址：https://github.com/Curzyori/ex-apk/releases
 
 # 安装后：
 # 1. 打开 ExAPK 应用
@@ -103,6 +104,17 @@
 # 3. 点击任意应用 → "Extract APK"
 # 4. APK 保存至 /Download/ExAPK/
 ```
+
+### 从源码构建
+```bash
+# 克隆仓库
+git clone https://github.com/Curzyori/ex-apk.git
+cd ex-apk
+
+# 构建 debug APK
+./gradlew assembleDebug
+```
+APK 输出位置：`app/build/outputs/apk/debug/app-debug.apk`
 
 ---
 
