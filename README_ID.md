@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Curzyori/ex-apk"><strong>🌐 Website</strong></a>
+  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 Website</strong></a>
 </p>
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/stargazers)
-[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members)
+[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/stargazers target="_blank" rel="noopener noreferrer")
+[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members target="_blank" rel="noopener noreferrer")
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android--10+-black?style=for-the-badge)](#)
 
@@ -73,7 +73,7 @@ Ekstrak APK apa pun dari perangkat Android Anda tanpa akses root. Cocok untuk ba
 ## <a id="instalasi"></a>📦 Instalasi
 
 1. **Unduh APK**
-   - Ambil APK terbaru dari [GitHub Releases](https://github.com/Curzyori/ex-apk/releases)
+   - Ambil APK terbaru dari [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) target="_blank" rel="noopener noreferrer"
    - Atau kunjungi website: https://ex-apk.curzy.dev/
 
 2. **Instal di Android**
@@ -127,7 +127,7 @@ Ekstrak APK apa pun dari perangkat Android Anda tanpa akses root. Cocok untuk ba
 
 Dukung project ini dengan traktir kopi! 💝
 
-<a href="https://donate.curzy.dev/">
+<a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 

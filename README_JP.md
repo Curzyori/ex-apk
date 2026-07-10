@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Curzyori/ex-apk"><strong>🌐 公式サイト</strong></a>
+  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 公式サイト</strong></a>
 </p>
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/stargazers)
-[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members)
+[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/stargazers target="_blank" rel="noopener noreferrer")
+[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members target="_blank" rel="noopener noreferrer")
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android--10+-black?style=for-the-badge)](#)
 
@@ -73,7 +73,7 @@ root 権限なしで、インストール済みの任意の APK を抽出でき�
 ## <a id="installation"></a>📦 インストール
 
 1. **APK をダウンロード**
-   - 最新の APK を [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) から取得
+   - 最新の APK を [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) から取得 target="_blank" rel="noopener noreferrer"
    - またはサイトへ：https://ex-apk.curzy.dev/
 
 2. **Android にインストール**
@@ -127,7 +127,7 @@ root 権限なしで、インストール済みの任意の APK を抽出でき�
 
 このプロジェクトを支援していただき、コーヒーをおごってください！💝
 
-<a href="https://donate.curzy.dev/">
+<a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 

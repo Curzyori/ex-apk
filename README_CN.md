@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Curzyori/ex-apk"><strong>🌐 官方网站</strong></a>
+  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 官方网站</strong></a>
 </p>
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/stargazers)
-[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members)
+[![Stars](https://img.shields.io/github/stars/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/stargazers target="_blank" rel="noopener noreferrer")
+[![Forks](https://img.shields.io/github/forks/Curzyori/ex-apk?style=for-the-badge&color=374151)](https://github.com/Curzyori/ex-apk/network/members target="_blank" rel="noopener noreferrer")
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android--10+-black?style=for-the-badge)](#)
 
@@ -73,7 +73,7 @@
 ## <a id="installation"></a>📦 安装指南
 
 1. **下载 APK**
-   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) 获取最新 APK
+   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) 获取最新 APK target="_blank" rel="noopener noreferrer"
    - 或访问网站：https://ex-apk.curzy.dev/
 
 2. **在 Android 上安装**
@@ -127,7 +127,7 @@
 
 支持这个项目，请我喝杯咖啡！💝
 
-<a href="https://donate.curzy.dev/">
+<a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 
