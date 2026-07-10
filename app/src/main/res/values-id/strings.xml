@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExAPK</string>
+
+    <!-- Filters -->
+    <string name="filter_label">Filter</string>
+    <string name="filter_all_lower">semua</string>
+    <string name="filter_all">Semua</string>
+    <string name="filter_user">Pengguna</string>
+    <string name="filter_system">Sistem</string>
+
+    <!-- Sort -->
+    <string name="sort_label">Sortir</string>
+    <string name="sort_name">Nama</string>
+    <string name="sort_size">Ukuran</string>
+    <string name="sort_date">Tanggal</string>
+
+    <!-- Search -->
+    <string name="search_hint">Cari aplikasi…</string>
+
+    <!-- Empty States -->
+    <string name="empty_filter">Tidak ada aplikasi dengan filter ini</string>
+    <string name="empty_filter_hint">Ketuk filter chip di atas untuk melihat aplikasi</string>
+    <string name="empty_search">Tidak ada aplikasi untuk \"%s\"</string>
+    <string name="empty_search_hint">Periksa ejaan atau coba kata kunci lain</string>
+    <string name="error_occurred">Terjadi kesalahan</string>
+    <string name="error_hint">Terjadi masalah. Silakan coba lagi.</string>
+    <string name="error_load">Gagal memuat aplikasi</string>
+    <string name="retry">Coba Lagi</string>
+
+    <!-- App Info -->
+    <string name="system_app">Aplikasi Sistem</string>
+    <string name="user_app">Aplikasi User</string>
+    <string name="version_label">Versi</string>
+    <string name="app_version">1.1.0</string>
+    <string name="type">Tipe</string>
+    <string name="installed">Dipasang</string>
+    <string name="share">Bagikan</string>
+
+    <!-- Bottom Sheet -->
+    <string name="extract_apk">Ekstrak APK</string>
+    <string name="extract_share">Ekstrak &amp; Bagikan</string>
+    <string name="version">Versi %s</string>
+    <string name="size">Ukuran</string>
+
+    <!-- Extraction -->
+    <string name="extracting">Mengekstrak…</string>
+    <string name="extracting_progress">Mengekstrak %1$d/%2$d…</string>
+    <string name="preparing">Mempersiapkan…</string>
+    <string name="extract_success">APK berhasil diekstrak</string>
+    <string name="extract_skipped">Dilompati (tidak dapat diakses)</string>
+    <string name="extract_with_count">Ekstrak (%d)</string>
+    <string name="batch_progress">Diekstrak %1$d/%2$d</string>
+    <string name="batch_summary">Diekstrak %1$d/%2$d (%3$d dilompati, %4$d gagal)</string>
+
+    <!-- Settings -->
+    <string name="settings">Pengaturan</string>
+    <string name="back">Kembali</string>
+    <string name="close">Tutup</string>
+    <string name="selected">Dipilih</string>
+    <string name="appearance">Tampilan</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="dark_mode_auto">Otomatis</string>
+    <string name="dark_mode_light">Terang</string>
+    <string name="dark_mode_dark">Gelap</string>
+    <string name="language">Bahasa</string>
+    <string name="language_english">English</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="about">Tentang</string>
+    <string name="github">Repositori GitHub</string>
+    <string name="view_source_code">Lihat kode sumber</string>
+    <string name="website">Website</string>
+    <string name="support_project">Dukung Proyek Ini</string>
+    <string name="donate_subtitle">Donasi untuk mendukung pengembangan</string>
+
+    <!-- Donate -->
+    <string name="donate_title">Dukung Proyek Ini</string>
+    <string name="donate_button">Donasi</string>
+    <string name="donate_thanks">Terima kasih atas dukungannya!</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_app_icon">Ikon aplikasi</string>
+    <string name="cd_system_badge">Aplikasi sistem</string>
+    <string name="cd_search">Cari</string>
+    <string name="cd_clear_search">Hapus pencarian</string>
+    <string name="cd_settings">Pengaturan</string>
+    <string name="cd_info">Info aplikasi</string>
+    <string name="cd_checkbox">Pilih aplikasi</string>
+    <string name="cd_clear_selection">Hapus pilihan</string>
+    <string name="cd_extract_selected">Ekstrak aplikasi yang dipilih</string>
+    <string name="cd_cancel">Batalkan</string>
+    <string name="refresh">Segarkan</string>
+
+    <!-- Actions -->
+    <string name="select_all">Pilih Semua</string>
+    <string name="clear_selection">Hapus</string>
+    <string name="share_apk">Bagikan APK</string>
+
+    <!-- Extraction messages (dynamic) -->
+    <string name="extract_success_file">APK berhasil diekstrak ke %1$s</string>
+    <string name="extract_result_batch">Berhasil mengekstrak %1$d/%2$d aplikasi (%3$d dilewati, %4$d gagal)</string>
+    <string name="extract_complete">Ekstraksi selesai</string>
+    <string name="extract_cancelled">Ekstraksi dibatalkan</string>
+    <string name="extract_failed">Ekstraksi gagal: %1$s</string>
+    <string name="visit">Kunjungi</string>
+
+    <!-- Confirmation Dialog -->
+    <string name="extract_confirm_title">Ekstrak %1$d aplikasi?</string>
+    <string name="extract_confirm_message">Ekstrak %1$d aplikasi yang dipilih ke /Download/ExAPK/?</string>
+    <string name="confirm_extract">Ekstrak</string>
+    <string name="cancel">Batal</string>
+</resources>

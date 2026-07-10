@@ -1,0 +1,57 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#384351"
+        android:pathData="M0,0 h512 v512 h-512 z" />
+
+    <!-- Isometric Box Outline -->
+    <!-- Sisi kiri kotak -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="16"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#2C3541"
+        android:pathData="M120,280 L220,330 L220,430 L120,380 Z" />
+
+    <!-- Sisi kanan kotak -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="16"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#202933"
+        android:pathData="M220,330 L320,280 L320,380 L220,430 Z" />
+
+    <!-- Penutup kiri terbuka -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="16"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#384351"
+        android:pathData="M120,280 L50,230 L150,180 L220,230 Z" />
+
+    <!-- Penutup kanan terbuka -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="16"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#384351"
+        android:pathData="M220,230 L290,180 L390,230 L320,280 Z" />
+
+    <!-- Green Arrow (extracting out of the box) -->
+    <path
+        android:fillColor="#41CE82"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="12"
+        android:strokeLineJoin="round"
+        android:pathData="M180,260 L240,160 L210,160 L260,80 L310,160 L280,160 L340,260 Z" />
+
+</vector>

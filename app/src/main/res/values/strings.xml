@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExAPK</string>
+
+    <!-- Filters -->
+    <string name="filter_label">Filter</string>
+    <string name="filter_all_lower">all</string>
+    <string name="filter_all">All</string>
+    <string name="filter_user">User</string>
+    <string name="filter_system">Sys</string>
+
+    <!-- Sort -->
+    <string name="sort_label">Sort</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_date">Date</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search apps…</string>
+
+    <!-- Empty States -->
+    <string name="empty_filter">No apps match this filter</string>
+    <string name="empty_filter_hint">Tap a filter chip above to see apps</string>
+    <string name="empty_search">No apps found for \"%s\"</string>
+    <string name="empty_search_hint">Check your spelling or try different keywords</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="error_hint">Something went wrong. Please try again.</string>
+    <string name="error_load">Failed to load apps</string>
+    <string name="retry">Retry</string>
+
+    <!-- App Info -->
+    <string name="system_app">System App</string>
+    <string name="user_app">User App</string>
+    <string name="version_label">Version</string>
+    <string name="app_version">1.1.0</string>
+    <string name="type">Type</string>
+    <string name="installed">Installed</string>
+    <string name="share">Share</string>
+
+    <!-- Bottom Sheet -->
+    <string name="extract_apk">Extract APK</string>
+    <string name="extract_share">Extract &amp; Share</string>
+    <string name="version">Version %s</string>
+    <string name="size">Size</string>
+
+    <!-- Extraction -->
+    <string name="extracting">Extracting…</string>
+    <string name="extracting_progress">Extracting %1$d/%2$d…</string>
+    <string name="preparing">Preparing…</string>
+    <string name="extract_success">APK extracted successfully</string>
+    <string name="extract_skipped">Skipped (not accessible)</string>
+    <string name="extract_with_count">Extract (%d)</string>
+    <string name="batch_progress">Extracted %1$d/%2$d</string>
+    <string name="batch_summary">Extracted %1$d/%2$d (%3$d skipped, %4$d failed)</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="selected">Selected</string>
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_auto">Auto (System)</string>
+    <string name="dark_mode_light">Light</string>
+    <string name="dark_mode_dark">Dark</string>
+    <string name="language">Language</string>
+    <string name="language_english">English</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="about">About</string>
+    <string name="github">GitHub Repository</string>
+    <string name="view_source_code">View source code</string>
+    <string name="website">Website</string>
+    <string name="support_project">Support This Project</string>
+    <string name="donate_subtitle">Donate to support development</string>
+
+    <!-- Donate -->
+    <string name="donate_title">Support This Project</string>
+    <string name="donate_button">Donate</string>
+    <string name="donate_thanks">Thank you for your support!</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_app_icon">App icon</string>
+    <string name="cd_system_badge">System app</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_selected">Selected</string>
+    <string name="cd_info">App info</string>
+    <string name="cd_checkbox">Select app</string>
+    <string name="cd_clear_selection">Clear selection</string>
+    <string name="cd_extract_selected">Extract selected apps</string>
+    <string name="cd_cancel">Cancel</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- Actions -->
+    <string name="select_all">Select All</string>
+    <string name="clear_selection">Clear</string>
+    <string name="share_apk">Share APK</string>
+
+    <!-- Extraction messages (dynamic) -->
+    <string name="extract_success_file">APK extracted to %1$s</string>
+    <string name="extract_result_batch">Extracted %1$d/%2$d apps (%3$d skipped, %4$d failed)</string>
+    <string name="extract_complete">Extraction complete</string>
+    <string name="extract_cancelled">Extraction cancelled</string>
+    <string name="extract_failed">Extraction failed: %1$s</string>
+    <string name="visit">Visit</string>
+
+    <!-- Confirmation Dialog -->
+    <string name="extract_confirm_title">Extract %1$d apps?</string>
+    <string name="extract_confirm_message">Extract APK files from %1$d selected apps to /Download/ExAPK/?</string>
+    <string name="confirm_extract">Extract</string>
+    <string name="cancel">Cancel</string>
+</resources>

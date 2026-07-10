@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Gray -->
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_700">#374151</color>
+
+    <!-- White / Light -->
+    <color name="white">#FFFFFF</color>
+    <color name="gray_50">#F3F4F6</color>
+
+    <!-- Black / Dark -->
+    <color name="gray_900">#111827</color>
+    <color name="gray_800">#1F2937</color>
+
+    <!-- Semantic -->
+    <color name="success">#10B981</color>
+    <color name="error">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+</resources>
