@@ -109,19 +109,16 @@
 ## <a id="preview"></a>🖼️ 预览
 
 <p align="center">
-  <img src="images/dashboard.jpg" alt="ExAPK 仪表盘" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/extrack-preview.jpg" alt="APK 提取预览" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/setting-lang-preview.jpg" alt="语言设置" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/file-output-preview.jpg" alt="已提取的 APK 文件" width="400"/>
+  <table>
+    <tr>
+      <td><img src="images/dashboard.jpg" alt="ExAPK 仪表盘" width="250"/></td>
+      <td><img src="images/extrack-preview.jpg" alt="APK 提取预览" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="images/setting-lang-preview.jpg" alt="语言设置" width="250"/></td>
+      <td><img src="images/file-output-preview.jpg" alt="已提取的 APK 文件" width="250"/></td>
+    </tr>
+  </table>
 </p>
 
 ---

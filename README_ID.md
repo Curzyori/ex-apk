@@ -109,19 +109,16 @@ Ekstrak APK apa pun dari perangkat Android Anda tanpa akses root. Cocok untuk ba
 ## <a id="preview"></a>🖼️ Preview
 
 <p align="center">
-  <img src="images/dashboard.jpg" alt="Dashboard ExAPK" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/extrack-preview.jpg" alt="Preview Ekstraksi APK" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/setting-lang-preview.jpg" alt="Pengaturan Bahasa" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/file-output-preview.jpg" alt="File APK yang Diekstrak" width="400"/>
+  <table>
+    <tr>
+      <td><img src="images/dashboard.jpg" alt="Dashboard ExAPK" width="250"/></td>
+      <td><img src="images/extrack-preview.jpg" alt="Preview Ekstraksi APK" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="images/setting-lang-preview.jpg" alt="Pengaturan Bahasa" width="250"/></td>
+      <td><img src="images/file-output-preview.jpg" alt="File APK yang Diekstrak" width="250"/></td>
+    </tr>
+  </table>
 </p>
 
 ---
