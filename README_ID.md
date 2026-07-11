@@ -137,13 +137,11 @@ Lokasi output APK: `app/build/outputs/apk/debug/app-debug.apk`
 
 ## <a id="support"></a>☕ Support
 
-Dukung project ini dengan traktir kopi! 💝
+<a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">Dukung project ini dengan traktir kopi! 💝</a>
 
 <a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
-
-[<strong>Buy Me A Coffee</strong>](https://donate.curzy.dev/) target="_blank" rel="noopener noreferrer"
 
 ---
 
