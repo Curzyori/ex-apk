@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 Live Website</strong></a>
+  <a href="https://ex-apk.curzy.dev/"><strong>🌐 Live Website</strong></a>
 </p>
 
 <div align="center">
@@ -73,8 +73,8 @@
 ## <a id="installation"></a>📦 安装指南
 
 1. **下载 APK**
-   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) target="_blank" rel="noopener noreferrer" 获取最新 APK
-   - 或访问网站：[ex-apk.curzy.dev](https://ex-apk.curzy.dev/) target="_blank" rel="noopener noreferrer"
+   - 从 [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) 获取最新 APK
+   - 或访问网站：[ex-apk.curzy.dev](https://ex-apk.curzy.dev/)
 
 2. **在 Android 上安装**
    - 在设备设置中启用"允许安装未知来源应用"
@@ -137,9 +137,9 @@ APK 输出位置：`app/build/outputs/apk/debug/app-debug.apk`
 
 ## <a id="support"></a>☕ 支持
 
-支持这个项目，请我喝杯咖啡！💝
+<a href="https://donate.curzy.dev/">支持这个项目，请我喝杯咖啡！💝</a>
 
-<a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://donate.curzy.dev/">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 

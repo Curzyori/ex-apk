@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 Live Website</strong></a>
+  <a href="https://ex-apk.curzy.dev/"><strong>🌐 Live Website</strong></a>
 </p>
 
 <div align="center">
@@ -73,8 +73,8 @@ Ekstrak APK apa pun dari perangkat Android Anda tanpa akses root. Cocok untuk ba
 ## <a id="instalasi"></a>📦 Instalasi
 
 1. **Unduh APK**
-   - Ambil APK terbaru dari [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) target="_blank" rel="noopener noreferrer"
-   - Atau kunjungi website: [ex-apk.curzy.dev](https://ex-apk.curzy.dev/) target="_blank" rel="noopener noreferrer"
+   - Ambil APK terbaru dari [GitHub Releases](https://github.com/Curzyori/ex-apk/releases)
+   - Atau kunjungi website: [ex-apk.curzy.dev](https://ex-apk.curzy.dev/)
 
 2. **Instal di Android**
    - Aktifkan "Install from Unknown Sources" di pengaturan perangkat
@@ -137,9 +137,9 @@ Lokasi output APK: `app/build/outputs/apk/debug/app-debug.apk`
 
 ## <a id="support"></a>☕ Support
 
-Dukung project ini dengan traktir kopi! 💝
+<a href="https://donate.curzy.dev/">Dukung project ini dengan traktir kopi! 💝</a>
 
-<a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://donate.curzy.dev/">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 

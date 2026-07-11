@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ex-apk.curzy.dev/" target="_blank" rel="noopener noreferrer"><strong>🌐 Live Website</strong></a>
+  <a href="https://ex-apk.curzy.dev/"><strong>🌐 Live Website</strong></a>
 </p>
 
 <div align="center">
@@ -73,8 +73,8 @@ Extract any installed APK from your Android device without root access. Perfect 
 ## <a id="installation"></a>📦 Installation
 
 1. **Download APK**
-   - Get the latest APK from [GitHub Releases](https://github.com/Curzyori/ex-apk/releases) target="_blank" rel="noopener noreferrer"
-   - Or visit the website: [ex-apk.curzy.dev](https://ex-apk.curzy.dev/) target="_blank" rel="noopener noreferrer"
+   - Get the latest APK from [GitHub Releases](https://github.com/Curzyori/ex-apk/releases)
+   - Or visit the website: [ex-apk.curzy.dev](https://ex-apk.curzy.dev/)
 
 2. **Install on Android**
    - Enable "Install from Unknown Sources" in your device settings
@@ -137,9 +137,9 @@ APK output location: `app/build/outputs/apk/debug/app-debug.apk`
 
 ## <a id="support"></a>☕ Support
 
-Support this project by buying me a coffee! 💝
+<a href="https://donate.curzy.dev/">Support this project by buying me a coffee! 💝</a>
 
-<a href="https://donate.curzy.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://donate.curzy.dev/">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 
